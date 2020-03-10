@@ -1,2 +1,3 @@
-# tugas-vietgram
-Tugas Webpro 10 Maret 2020
+# vietgram
+
+On this repository I'll clone Instagram front end and back end
